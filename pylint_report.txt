@@ -1,0 +1,2 @@
+************* Module inventory_system.py
+inventory_system.py:1:0: F0001: No module named inventory_system.py (fatal)
